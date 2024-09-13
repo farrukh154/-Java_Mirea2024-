@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">mirea11</string>
+    <!-- Имя канала уведомлений -->
+    <string name="channel_name">Название канала</string>
+    <!-- Описание канала уведомлений -->
+    <string name="channel_description">Описание канала</string>
+</resources>
